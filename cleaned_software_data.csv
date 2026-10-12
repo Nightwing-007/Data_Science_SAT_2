@@ -1,0 +1,87 @@
+Row Labels,Sum of defect_count,Sum of complexity
+api_gateway,12,22
+auth,5,13
+cache,1,22
+database,2,20
+payment,23,20
+ui,41,18
+Grand Total,84,115
+,,
+,,
+,,
+,,
+,,
+Row Labels,Sum of defect_count,
+api_gateway,12,
+auth,5,
+cache,1,
+database,2,
+payment,23,
+ui,41,
+Grand Total,84,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Row Labels,Sum of defect_count,Sum of churn
+api_gateway,12,80
+auth,5,55
+cache,1,15
+database,2,45
+payment,23,90
+ui,41,300
+Grand Total,84,585
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Row Labels,Sum of defect_count,
+Backend,15,
+Finance,23,
+Frontend,41,
+Security,5,
+Grand Total,84,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Row Labels,Average of test_coverage,
+api_gateway,78.5,
+auth,84.75,
+cache,95,
+database,92.1,
+payment,59.35,
+ui,45,
+Grand Total,75.78333333,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+Row Labels,Sum of defect_count,
+1,1,
+2,2,
+3,5,
+5,12,
+8,23,
+12,41,
+Grand Total,84,
